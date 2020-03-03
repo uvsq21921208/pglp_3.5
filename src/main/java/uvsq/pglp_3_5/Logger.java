@@ -1,7 +1,7 @@
 package uvsq.pglp_3_5;
 /**
  *
- * Low level implementation of messageLogger interface.
+ * Low level implementation of messageLogger interface (high level).
  *
  */
 public class Logger implements MessageLogger {
