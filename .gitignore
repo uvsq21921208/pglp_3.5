@@ -3,3 +3,4 @@
 .settings
 .vscode
 checkstyle.xml
+/target/
